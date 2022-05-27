@@ -5,4 +5,5 @@
 - repositório demonstra conhecimentos básicos  em HTML e CSS.
 
 > Bom aprendizado, voaaa!!! =D 
-> Chegei
+
+> Cheguei
